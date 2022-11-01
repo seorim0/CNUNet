@@ -1,0 +1,8 @@
+python==3.7.9
+pytorch==1.9.0_cu11
+scipy==1.6.0
+soundfile==0.10.3
+tensorboard==2.7.0
+pesq==0.0.2
+pystoi==0.3.3   
+matplotlib==3.3.3
